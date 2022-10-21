@@ -1,0 +1,32 @@
+#phot{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    border: 3px solid black;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+}
+
+div{
+    border: 1px solid black;
+    width:300px;
+    height: 400px;
+    background-color: rgb(108, 0, 29);
+    background-size: 300px 400px;
+    background-repeat: no-repeat;
+}
+#photez{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+h3{
+    text-align: center;
+    text-decoration-color: brown;
+    }
+
+
